@@ -23,7 +23,7 @@
   border-right: 1px solid white;
   border-left: 1px solid white; }
 
-/* layers property */
+/* layers orders */
 .layer1 {
   z-index: 1;
   position: relative;
@@ -63,5 +63,107 @@
   z-index: 70;
   position: relative;
   display: flex; }
+
+.multiply {
+  mix-blend-mode: multiply; }
+
+.screen {
+  mix-blend-mode: screen; }
+
+.overlay {
+  mix-blend-mode: overlay; }
+
+.darken {
+  mix-blend-mode: darken; }
+
+.lighten {
+  mix-blend-mode: lighten; }
+
+.dodge {
+  mix-blend-mode: color-dodge; }
+
+.burn {
+  mix-blend-mode: color-burn; }
+
+.hard {
+  mix-blend-mode: hard-light; }
+
+.soft {
+  mix-blend-mode: soft-light; }
+
+.diff {
+  mix-blend-mode: difference; }
+
+.exc {
+  mix-blend-mode: exclusion; }
+
+.hue {
+  mix-blend-mode: hue; }
+
+.sat {
+  mix-blend-mode: saturation; }
+
+.color {
+  mix-blend-mode: color; }
+
+.lum {
+  mix-blend-mode: luminosity; }
+
+.op5 {
+  opacity: 0.05; }
+
+.op10 {
+  opacity: 0.1; }
+
+.op15 {
+  opacity: 0.15; }
+
+.op20 {
+  opacity: 0.2; }
+
+.op25 {
+  opacity: 0.25; }
+
+.op30 {
+  opacity: 0.3; }
+
+.op35 {
+  opacity: 0.35; }
+
+.op40 {
+  opacity: 0.4; }
+
+.op45 {
+  opacity: 0.45; }
+
+.op50 {
+  opacity: 0.5; }
+
+.op55 {
+  opacity: 0.55; }
+
+.op60 {
+  opacity: 0.6; }
+
+.op65 {
+  opacity: 0.65; }
+
+.op70 {
+  opacity: 0.7; }
+
+.op75 {
+  opacity: 0.75; }
+
+.op80 {
+  opacity: 0.8; }
+
+.op85 {
+  opacity: 0.85; }
+
+.op90 {
+  opacity: 0.9; }
+
+.op95 {
+  opacity: 0.95; }
 
 /*# sourceMappingURL=PS.css.map */
